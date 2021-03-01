@@ -1,6 +1,6 @@
 # CSC258H1F-2020Fall
-My work in CSC258(Computer Organization)\n
-Final project: Doodle jump
+My work in CSC258(Computer Organization)
+# Final project: Doodle jump
 # Project description: 
 In this project, we will implement the Doodle jump game using Assembly language
 5 milestones in total
