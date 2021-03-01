@@ -1,11 +1,10 @@
 # CSC258H1F-2020Fall
 My work in CSC258(Computer Organization)
 Final project: Doodle jump
-##########################################################################
-Project description: 
+# Project description: 
 In this project, we will implement the Doodle jump game using Assembly language
 5 milestones in total
-##########################################################################
+# Project information:
 Bitmap Display Configuration:
 - Unit width in pixels: 8
 - Unit height in pixels: 8
