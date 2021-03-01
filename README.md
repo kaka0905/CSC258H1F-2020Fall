@@ -12,12 +12,6 @@ Bitmap Display Configuration:
 - Display height in pixels: 256
 - Base Address for Display: 0x10008000 ($gp)
 
-Milestone reached in this submission: Milestone 4
-Features in Milestone4:
-i. Game Over and retry(retry is not printed on the screen,
-   there will be an instruction below).
-ii. Scoreboard will be displayed in the game over screen.
-
 Instruction:
 1. Press 's' to start, the screen will generate plates and the doodle
 2. Press 'j' to make doodle move to left
